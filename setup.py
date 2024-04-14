@@ -14,7 +14,7 @@ extra_files = package_files('mousepad')
 
 setup(
     name='mousepad',
-    version='0.1.1',
+    version='0.1.2',
     description='Multidevice controller using python',
     url='https://github.com/neetishsingh/mousepad',
     author='Neetish Singh',
